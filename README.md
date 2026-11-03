@@ -12,6 +12,7 @@
 | [C 指针在嵌入式中的应用](docs/c-pointers.md) | 寄存器、缓冲区、结构体、动态内存和回调怎样使用指针 |
 | [中断、轮询与 NVIC／EXTI](docs/interrupts-nvic-exti.md) | 什么是中断与轮询，怎样分组、查表和清除中断标志 |
 | [定时器与 PWM](docs/timers-pwm.md) | PSC、CNT、ARR、CCR 各管什么，怎样计算周期、频率和占空比 |
+| [SPI 通信](docs/spi.md) | 四根线、全双工、占位字节、CPOL／CPHA 和多从机片选怎样配合 |
 
 ## 阅读方式
 
