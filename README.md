@@ -14,6 +14,7 @@
 | [定时器与 PWM](docs/timers-pwm.md) | PSC、CNT、ARR、CCR 各管什么，怎样计算周期、频率和占空比 |
 | [SPI 通信](docs/spi.md) | 四根线、全双工、占位字节、CPOL／CPHA 和多从机片选怎样配合 |
 | [USART／UART 异步串口](docs/usart-uart.md) | TX／RX 怎样连接，8N1、波特率、起始位和接收中断怎样配合 |
+| [DMA 串口接收](docs/dma-uart-reception.md) | 普通和循环模式、IDLE、半传输中断及缓冲区回绕怎样配合 |
 
 ## 阅读方式
 
