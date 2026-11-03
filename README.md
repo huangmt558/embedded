@@ -6,15 +6,16 @@
 
 | 主题 | 这篇解决什么问题 |
 | --- | --- |
-| [I²C 通信协议](docs/i2c.md) | 地址怎么区分、谁负责应答、寄存器怎么读写 |
-| [FSMC 与 LCD 驱动](docs/fsmc-lcd.md) | 内存写入怎样变成屏幕操作，以及如何配合 LVGL |
-| [STM32 启动流程与内存分布](docs/stm32-startup-memory.md) | 上电后怎样进入 main，以及 BOOT、MSP、VTOR 和内存段的关系 |
 | [C 指针在嵌入式中的应用](docs/c-pointers.md) | 寄存器、缓冲区、结构体、动态内存和回调怎样使用指针 |
+| [STM32 启动流程与内存分布](docs/stm32-startup-memory.md) | 上电后怎样进入 main，以及 BOOT、MSP、VTOR 和内存段的关系 |
 | [中断、轮询与 NVIC／EXTI](docs/interrupts-nvic-exti.md) | 什么是中断与轮询，怎样分组、查表和清除中断标志 |
 | [定时器与 PWM](docs/timers-pwm.md) | PSC、CNT、ARR、CCR 各管什么，怎样计算周期、频率和占空比 |
-| [SPI 通信](docs/spi.md) | 四根线、全双工、占位字节、CPOL／CPHA 和多从机片选怎样配合 |
+| [ADC 模数转换](docs/adc.md) | 12 位分辨率、扫描转换、ADC 时钟、DMA 配合和校准 |
 | [USART／UART 异步串口](docs/usart-uart.md) | TX／RX 怎样连接，8N1、波特率、起始位和接收中断怎样配合 |
 | [DMA 串口接收](docs/dma-uart-reception.md) | 普通和循环模式、IDLE、半传输中断及缓冲区回绕怎样配合 |
+| [SPI 通信](docs/spi.md) | 四根线、全双工、占位字节、CPOL／CPHA 和多从机片选怎样配合 |
+| [I²C 通信协议](docs/i2c.md) | 地址怎么区分、谁负责应答、寄存器怎么读写 |
+| [FSMC 与 LCD 驱动](docs/fsmc-lcd.md) | 内存写入怎样变成屏幕操作，以及如何配合 LVGL |
 
 ## 阅读方式
 
