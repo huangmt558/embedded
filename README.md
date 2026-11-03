@@ -10,6 +10,7 @@
 | [FSMC 与 LCD 驱动](docs/fsmc-lcd.md) | 内存写入怎样变成屏幕操作，以及如何配合 LVGL |
 | [STM32 启动流程与内存分布](docs/stm32-startup-memory.md) | 上电后怎样进入 main，以及 BOOT、MSP、VTOR 和内存段的关系 |
 | [C 指针在嵌入式中的应用](docs/c-pointers.md) | 寄存器、缓冲区、结构体、动态内存和回调怎样使用指针 |
+| [中断、轮询与 NVIC／EXTI](docs/interrupts-nvic-exti.md) | 什么是中断与轮询，怎样分组、查表和清除中断标志 |
 
 ## 阅读方式
 
