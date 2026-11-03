@@ -11,6 +11,7 @@
 | [STM32 启动流程与内存分布](docs/stm32-startup-memory.md) | 上电后怎样进入 main，以及 BOOT、MSP、VTOR 和内存段的关系 |
 | [C 指针在嵌入式中的应用](docs/c-pointers.md) | 寄存器、缓冲区、结构体、动态内存和回调怎样使用指针 |
 | [中断、轮询与 NVIC／EXTI](docs/interrupts-nvic-exti.md) | 什么是中断与轮询，怎样分组、查表和清除中断标志 |
+| [定时器与 PWM](docs/timers-pwm.md) | PSC、CNT、ARR、CCR 各管什么，怎样计算周期、频率和占空比 |
 
 ## 阅读方式
 
